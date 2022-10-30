@@ -4,6 +4,7 @@ Le parcours récursif DFS et le parcours récursif BFS d'un graphe.
 Implémenter en C :
 
 • Le parcours récursif DFS.
+
 • Le parcours récursif BFS.
 
 Ici, le traitement des sommets c'est l'affichage.
